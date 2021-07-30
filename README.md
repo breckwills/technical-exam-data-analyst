@@ -1,4 +1,4 @@
-Welcome to the WSJ Data Lab takehome exam. Please submit answers in the form of a Jupyter notebook, in any scripting language of your choice. Please email zipped files to breck.wills@dowjones.com within one week of receiving the exam.
+Welcome to the Dow Jones Data takehome exam. You should not spend more than an hour working on it. Please submit answers in the form of a Jupyter notebook, in any scripting language of your choice. Please email zipped files to breck.wills@dowjones.com within one week of receiving the exam.
 
 ## Scenario
 
