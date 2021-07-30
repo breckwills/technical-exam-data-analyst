@@ -1,4 +1,6 @@
-Welcome to the Dow Jones Data takehome exam. You should not spend more than an hour working on it. Please submit answers in the form of a Jupyter notebook, in any scripting language of your choice. Please email zipped files to breck.wills@dowjones.com within one week of receiving the exam.
+Welcome to the Dow Jones Data Science technical test for the membership team. This exam is designed to give you an opportunity to demonstrate your ability to work with structured datasets. You should not spend more than an hour working on it.
+
+Please submit answers in the form of a Jupyter notebook, in any scripting language of your choice. Email zipped files to breck.wills@dowjones.com.
 
 ## Scenario
 
@@ -40,5 +42,3 @@ The objective is to identify which content will turn first-time visitors into lo
 5. Create a simple model predicting the likelihood of a first-time visitor returning.
 
 6. What additional data would you add to improve the model? (Answer in 3-5 sentences)
-
-
